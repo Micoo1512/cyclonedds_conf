@@ -8,7 +8,7 @@ echo "Podešavam okruženje za CycloneDDS..."
 export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
 
 # 2. Postavlja putanju do vaše konfiguracione datoteke
-export CYCLONEDDS_URI=file:///var/tmp/cyclonedds.xml
+#export CYCLONEDDS_URI=file:///var/tmp/cyclonedds.xml
 
 # 3. (OPCIONO) Postavite ROS_DOMAIN_ID ako vam je potreban.
 #    Odkomentarišite liniju ispod i promenite broj ako je potrebno.
