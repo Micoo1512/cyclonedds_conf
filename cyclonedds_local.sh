@@ -11,7 +11,7 @@ export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
 export CYCLONEDDS_URI=""
 
 # 3. (OPCIONO) Postavite ROS_DOMAIN_ID ako vam je potreban.
-#    Odkomentarišite liniju ispod i promenite broj ako je potrebno.
+#   Odkomentarišite liniju ispod i promenite broj ako je potrebno.
 # export ROS_DOMAIN_ID=42
 
 echo "✅ Okruženje je podešeno. Možete pokrenuti ROS 2 komande."
