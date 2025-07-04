@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- Podešavanja za CycloneDDS sa Husarnetom ---
+# --- Podešavanja za CycloneDDS na Local ---
 
 echo "Podešavam okruženje za CycloneDDS..."
 
