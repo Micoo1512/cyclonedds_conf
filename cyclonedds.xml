@@ -11,8 +11,8 @@
         </General>      
         <Discovery>
             <Peers>
-                <Peer Address="talker-host" /> <!-- or <Peer address="fc94:a67f:2b47:756c:6e1c:7c05:7361:7378"/> -->
-                <Peer Address="listener-host" /> <!-- or <Peer address="fc94:6260:26e:e057:9bc:8786:4f8a:c7a6"/> -->
+                <Peer Address="simulation" /> <!-- or <Peer address="fc94:a67f:2b47:756c:6e1c:7c05:7361:7378"/> -->
+                <Peer Address="operator" /> <!-- or <Peer address="fc94:6260:26e:e057:9bc:8786:4f8a:c7a6"/> -->
             	<Peer Address="svi koji su u husarnet mrezi moze ime ili adresa"/>
             </Peers>
             <ParticipantIndex>auto</ParticipantIndex>
